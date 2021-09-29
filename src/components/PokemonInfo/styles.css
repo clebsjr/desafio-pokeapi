@@ -1,0 +1,23 @@
+.container_info {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.content_info {
+    text-align: center;
+    width: 220px;
+}
+
+.content_abilities {
+    text-align: center;
+    width: 220px;
+    padding: 1rem;
+}
+
+.content_abilities p {
+    margin-top: 0.5rem;
+}

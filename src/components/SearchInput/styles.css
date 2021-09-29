@@ -1,0 +1,26 @@
+.content_search {
+    width: 600px;
+}
+
+.content_search input {
+    width: 70%;
+    height: 2rem;
+    margin-right: 1rem;
+    border: 1px solid #cccccc;
+    border-radius: 0.25rem;
+}
+
+.content_search button {
+    width: 25%;
+    background-color: #33CC95;
+    border: 1px solid #000000;
+    padding: 0.4rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+
+    transition: filter 0.2s;
+}
+
+.content_search button:hover{
+    filter: brightness(0.8);
+}
