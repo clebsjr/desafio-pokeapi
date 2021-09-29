@@ -5,7 +5,7 @@ No desafio fiz um campo de busca, para que seja digitado o nome de um pokémon, 
 
 # Instalação
 ## Clone este repositório
-$ git clone <https://github.com/clebsjr/teste-compasso.git>
+$ git clone <https://github.com/clebsjr/desafio-pokeapi.git>
 
 ## Instale as dependências
 $ yarn
